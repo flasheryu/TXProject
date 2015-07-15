@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>建设银行</comment>
+<entry key="banknum">3</entry>
+
+<entry key="brokerage">1</entry>
+<entry key="multiple">2500</entry>
+<entry key="splitnum">60000</entry>
+<entry key="basicbuynum">4800</entry>
+<entry key="addonbuynum">200</entry>
+<entry key="matchnum">3</entry>
+<entry key="match1">55</entry>
+<entry key="match2">56</entry>
+<entry key="match3">57</entry>
+
+<entry key="payer"></entry>
+
+
+</properties>
